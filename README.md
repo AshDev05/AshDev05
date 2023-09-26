@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AshDev05
-- 👀 I’m interested in trucks and coding (yeah really different)
-- 🌱 I’m currently learning Python and am looking forward to learn JS and other languages
+Currently studying at Epitech Lyon (FR)
 
 <!---
 AshDev05/AshDev05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
